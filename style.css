@@ -16,7 +16,8 @@
     min-width: 10rem; */
     width: clamp(200px, 72vw, 21rem);
     margin: auto;
-    margin-top: 10rem;
+  /*   margin-top: 10rem; */
+    margin-block-start: 10rem;
     background-color: #ffffff;
     box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
 
