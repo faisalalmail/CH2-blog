@@ -1,8 +1,8 @@
 
 
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0rem;
+    padding: 0rem;
     font-family: 'figtree', sans-serif;
 }
 
@@ -35,7 +35,7 @@ body {
     font-weight: 800;
     padding: 0.4rem 0.8rem;
     width: fit-content;
-    margin-bottom: 1rem;
+    margin-block-end: 1rem;
     font-size: 0.8rem;
     object-position: 0%;
     
