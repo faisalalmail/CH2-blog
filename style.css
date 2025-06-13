@@ -18,7 +18,7 @@
     margin: auto;
   /*   margin-top: 10rem; */
     margin-block-start: 10rem;
-    background-color: #ffffff;
+    background-color: white;
     box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
 
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .card_content {
-    margin: 1rem 0 0 0;
+    margin-block-start: 1rem;
 }
 
 h2 {
