@@ -15,7 +15,6 @@
 /*     max-width: 21rem;
     min-width: 10rem; */
     width: clamp(200px, 72vw, 21rem);
-    height: 522px;
     margin: auto;
     margin-top: 10rem;
     background-color: #ffffff;
@@ -79,6 +78,7 @@ body {
 h2 {
     margin: 1rem 0 1rem 0;
     font-weight: 800;
+    font-size: clamp(0rem, 1.4rem, 1.5rem);
 }
 
 h2:hover, h2:focus, h2:active{
